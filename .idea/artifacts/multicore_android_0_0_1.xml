@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="multicore-android-0.0.1">
+    <output-path>$PROJECT_DIR$/../mpp-accounts-mobile/build/libs</output-path>
+    <root id="archive" name="multicore-android-0.0.1.jar" />
+  </artifact>
+</component>

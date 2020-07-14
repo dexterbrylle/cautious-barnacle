@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name = "mpp-android-demo"
+
+include ':multicore'
+project(':multicore').projectDir = file('/Volumes/Data/Dev/Finastra/mpp-accounts-mobile')
